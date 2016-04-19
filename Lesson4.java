@@ -1,5 +1,7 @@
 package main.java.Codility;
 
+import java.util.HashSet;
+
 public class Lesson4 {
 
     public int frogRiverOne(int X, int[] A) {
